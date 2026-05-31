@@ -1,2 +1,0 @@
-Resumo
-Este script move todos os arquivos e pastas da pasta Downloads para a lixeira do Windows.

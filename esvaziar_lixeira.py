@@ -1,3 +1,7 @@
+'''
+O script roda uma vez, se agenda sozinho no Windows e passa a esvaziar a lixeira automaticamente a cada 5
+dias às 10:00, avisando com um popup quando concluir.
+'''
 import subprocess
 import ctypes
 import os

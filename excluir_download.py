@@ -1,3 +1,6 @@
+'''
+Este script move todos os arquivos e pastas da pasta Downloads para a lixeira do Windows.
+'''
 import os
 from pathlib import Path
 from send2trash import send2trash
